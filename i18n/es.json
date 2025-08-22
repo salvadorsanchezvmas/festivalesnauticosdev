@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Festivales Náuticos MX",
+    "description": "Festivales Náuticos Mx, una organización con sede en Los Cabos, México, que organiza diversos eventos náuticos como el Desfile Náutico de Muertos y el Festival Náutico Navideño 'Mar y Christmas'."
+  },
+  "banner": {
+    "headline": "Vive la magia del mar y la tradición mexicana en los Festivales Náuticos MX."
+  },
+  "about": {
+    "paragraph": "Nuestros festivales combinan la majestuosidad del mar con la riqueza cultural de México, creando experiencias inolvidables para visitantes de todo el mundo."
+  },
+  "events": {
+    "altares": {
+      "title": "Altares en el Mar 2025",
+      "info": "'Altares en el Mar' es un festival inmersivo que honra a nuestros seres queridos con ofrendas flotantes adornadas de colores y tradiciones.",
+      "dates": "1–4 de noviembre 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Revive los momentos más espectaculares de la edición pasada."
+    },
+    "marxmas": {
+      "title": "Mar & Xmas 2025",
+      "info": "'Mar & Xmas' celebra la temporada navideña con un desfile marítimo lleno de luz y alegría.",
+      "dates": "13 de diciembre 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Descubre cómo vivimos la Navidad en el mar."
+    }
+  },
+  "tourism": {
+    "text": "Los Cabos es un destino incomparable donde el desierto se encuentra con el mar, ofreciendo actividades para todos los gustos."
+  },
+  "sponsorship": {
+    "heading": "Participa como patrocinador",
+    "info": "Sé parte de un festival que conecta marcas con audiencias apasionadas por el mar y la cultura mexicana.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "consent": "Acepto el aviso de privacidad",
+      "submit": "Enviar"
+    }
+  },
+  "gallery": {
+    "heading": "Galería de eventos pasados",
+    "text": "Mira cómo hemos transformado el mar en un escenario de celebración."
+  },
+  "footer": {
+    "slogan": "Festivales Náuticos MX – Un mar de tradiciones",
+    "links": "Síguenos en redes sociales | Contacto | Aviso de privacidad"
+  },
+  "nav": {
+    "altares": "Altares en el Mar",
+    "tourism": "Turismo Los Cabos",
+    "sponsorship": "Patrocinio",
+    "events": "Eventos",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "language": "Idioma"
+  }
+}

@@ -1,0 +1,76 @@
+/* Core variables */
+:root {
+  --color-primary: #1F2B7B;
+  --color-secondary: #F37121;
+  --color-gray: #e0e4e4;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --font-base: 'Work Sans', sans-serif;
+  --font-altares: 'Roboto Slab', serif;
+  --font-marxmas: 'Montserrat', sans-serif;
+  --font-marxmas-alt: 'Myriad Pro', sans-serif;
+  --spacing-section: 4rem;
+}
+
+body {
+  font-family: var(--font-base);
+  line-height: 1.6;
+  color: var(--color-black);
+}
+
+.section {
+  padding: var(--spacing-section) 0;
+}
+
+.btn-cta {
+  background-color: var(--color-secondary);
+  color: var(--color-white);
+  padding: 0.75rem 1.5rem;
+  border: none;
+  text-transform: uppercase;
+}
+
+.btn-cta:hover,
+.btn-cta:focus {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-white);
+  z-index: 2000;
+}
+
+.split-50-50 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.split-50-50 img {
+  width: 50%;
+}
+.split-50-50 div {
+  width: 50%;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 767px) {
+  .split-50-50 {
+    flex-direction: column;
+  }
+  .split-50-50 img,
+  .split-50-50 div {
+    width: 100%;
+  }
+}
