@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Festivales Náuticos MX",
+    "description": "Festivales Náuticos MX, an organization based in Los Cabos, Mexico, organizing nautical events like the Day of the Dead Boat Parade and the Christmas nautical festival 'Mar y Christmas'."
+  },
+  "banner": {
+    "headline": "Experience the magic of the sea and Mexican tradition at Festivales Náuticos MX."
+  },
+  "about": {
+    "paragraph": "Our festivals blend the majesty of the sea with Mexico's cultural richness, creating unforgettable experiences for visitors from around the world."
+  },
+  "events": {
+    "altares": {
+      "title": "Altares en el Mar 2025",
+      "info": "'Altares en el Mar' is an immersive festival that honors our loved ones with floating offerings full of color and tradition.",
+      "dates": "November 1–4, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Relive the most spectacular moments from last year's edition."
+    },
+    "marxmas": {
+      "title": "Mar & Xmas 2025",
+      "info": "'Mar & Xmas' celebrates the holiday season with a maritime parade full of light and joy.",
+      "dates": "December 13, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Discover how we celebrate Christmas at sea."
+    }
+  },
+  "tourism": {
+    "text": "Los Cabos is an incomparable destination where the desert meets the sea, offering activities for every taste."
+  },
+  "sponsorship": {
+    "heading": "Participate as a sponsor",
+    "info": "Be part of a festival that connects brands with audiences passionate about the sea and Mexican culture.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "consent": "I accept the privacy policy",
+      "submit": "Send"
+    }
+  },
+  "gallery": {
+    "heading": "Past events gallery",
+    "text": "See how we have transformed the sea into a stage of celebration."
+  },
+  "footer": {
+    "slogan": "Festivales Náuticos MX – A sea of traditions",
+    "links": "Follow us on social media | Contact | Privacy notice"
+  },
+  "nav": {
+    "altares": "Altares en el Mar",
+    "tourism": "Los Cabos Tourism",
+    "sponsorship": "Sponsorship",
+    "events": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "language": "Language"
+  }
+}
