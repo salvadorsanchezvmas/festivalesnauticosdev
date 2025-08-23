@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Nautical Festivals MX",
+    "description": "Festivales Náuticos Mx, an organization based in Los Cabos, Mexico, that organizes various nautical events such as the Nautical Day of the Dead Parade and the Christmas Nautical Festival \"Mar y Christmas\"."
+  },
+  "banner": {
+    "headline": "Experience the magic of the sea and Mexican tradition at Festivales Náuticos MX."
+  },
+  "about": {
+    "paragraph": "Our festivals blend the majesty of the sea with the cultural richness of Mexico, creating unforgettable experiences for locals and visitors alike."
+  },
+  "events": {
+    "altares": {
+      "title": "Altars at Sea 2025",
+      "info": "\u201cAltares en el Mar\u201d is an immersive festival that honors our loved ones with floating offerings full of light and color.",
+      "dates": "November 1\u20134, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Relive the most spectacular moments from last edition."
+    },
+    "marxmas": {
+      "title": "Mar & Xmas 2025",
+      "info": "\u201cMar & Xmas\u201d celebrates the holiday season with illuminated parades and activities for the whole family.",
+      "dates": "December 13, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Discover how we live Christmas at sea."
+    }
+  },
+  "tourism": {
+    "text": "Los Cabos is an unmatched destination where the desert meets the sea, offering activities for every taste."
+  },
+  "sponsorship": {
+    "heading": "Join as a sponsor",
+    "info": "Be part of a festival that connects brands with thousands of attendees and visitors.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "consent": "I accept the privacy notice",
+      "submit": "Send"
+    }
+  },
+  "gallery": {
+    "heading": "Past events gallery",
+    "text": "See how we have transformed the sea into a stage of traditions."
+  },
+  "footer": {
+    "slogan": "Festivales Náuticos MX – A sea of traditions",
+    "privacy": "Privacy notice"
+  },
+  "nav": {
+    "altares": "Altars at Sea",
+    "tourism": "Los Cabos Tourism",
+    "sponsorship": "Sponsorship",
+    "events": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "language": "Language"
+  }
+}
