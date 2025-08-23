@@ -1,0 +1,97 @@
+/* Variables */
+:root {
+  --color-primary: #1F2B7B;
+  --color-secondary: #F37121;
+  --color-tertiary: #e0e4e4;
+  --color-white: #ffffff;
+  --color-black: #000000;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('../fonts/WorkSans-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+body {
+  font-family: 'WorkSans', sans-serif;
+  overflow-x: hidden; /* prevent horizontal scroll */
+  color: var(--color-black);
+}
+
+.section {
+  min-height: 100vh;
+  padding: 4rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.text-mobile-pad {
+  padding: 0 2rem;
+}
+
+@media (min-width:768px) {
+  .text-mobile-pad { padding: 0; }
+}
+
+#banner .carousel-item {
+  height: 100vh;
+}
+#banner .carousel-item img,
+#banner .carousel-item video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.split-50-50 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.split-50-50 .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+.btn-cta {
+  background: var(--color-secondary);
+  color: var(--color-white);
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.25rem;
+}
+.btn-cta:hover,
+.btn-cta:focus {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+#tourism {
+  background-image: url('../images/banner-2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.25rem;
+}
+
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+}
+.hidden { display: none !important; }
