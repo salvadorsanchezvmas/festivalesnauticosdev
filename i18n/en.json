@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Festivales Náuticos MX",
+    "description": "Festivales Náuticos Mx, an organization based in Los Cabos, Mexico, organizing nautical events such as the Desfile Náutico de Muertos and the \"Mar y Christmas\" holiday parade."
+  },
+  "banner": {
+    "headline": "Experience the magic of the sea and Mexico’s traditions at Festivales Náuticos MX."
+  },
+  "about": {
+    "paragraph": "Our festivals combine the majesty of the sea with the cultural richness of Mexico. Since 2018, we’ve welcomed thousands of national and international visitors to a celebration that honors tradition, blending nautical parades, gastronomy, music, art, and unique experiences both on land and at sea."
+  },
+  "events": {
+    "altares": {
+      "title": "Altares en el Mar 2025",
+      "info": "“Altares en el Mar” is an immersive festival that commemorates the Day of the Dead with a monumental nautical parade. Illuminated boats transform into floating altars, accompanied by living Catrinas, live music, themed mixology, and cultural activities on land.",
+      "dates": "November 1–4, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Relive the most spectacular moments from last year’s edition."
+    },
+    "marxmas": {
+      "title": "Mar & Xmas 2025",
+      "info": "“Mar & Xmas” celebrates the holiday season with a parade of decorated boats filled with lights, music, and a festive atmosphere unique to Mexico. An experience that brings together the holiday spirit and the beauty of the sea.",
+      "dates": "December 13, 2025 | Cabo San Lucas, B.C.S.",
+      "cta": "Discover how we celebrate Christmas on the sea."
+    }
+  },
+  "tourism": {
+    "text": "Los Cabos is an unmatched destination where the desert meets the sea. Enjoy iconic beaches, world-class gastronomy, vibrant nightlife, and activities that make every visit unforgettable."
+  },
+  "sponsorship": {
+    "heading": "Be a sponsor",
+    "info": "Be part of a festival that connects brands with thousands of national and international visitors. Your brand will integrate into exclusive activations, immersive experiences, and a cultural showcase that transcends borders.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "consent": "I accept the privacy notice",
+      "submit": "Send"
+    }
+  },
+  "gallery": {
+    "heading": "Past events gallery",
+    "text": "See how we’ve transformed land and sea into stages filled with tradition, culture, and excitement."
+  },
+  "footer": {
+    "slogan": "Festivales Náuticos MX – A sea of traditions",
+    "links": "Follow us on social media | Contact | Privacy notice"
+  },
+  "nav": {
+    "altares": "Altares en el Mar",
+    "tourism": "Los Cabos Tourism",
+    "sponsorship": "Sponsorship",
+    "events": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "language": "Language"
+  }
+}
